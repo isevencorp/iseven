@@ -52,10 +52,10 @@ display:block;
 margin:15px auto 25px;
 }
 .img2{
-width: 30%;
-position: absolute;
-right: 20px;
-top: 900px;
+width: 400px;
+height: 400px;
+margin-left: 1000px;
+margin-top: -500px;
 }
 .chs{
   font-size: 4em;
